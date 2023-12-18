@@ -1,0 +1,221 @@
+"POST /api/token/ HTTP/1.1" 200 13002
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 12551
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2935
+Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+"GET /home/ HTTP/1.1" 500 84395
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\ASUS\Desktop\ITSTEP\Django\Материалы\55_Журналирование и отладка\lesson_55\lesson_55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2935
+"GET /home HTTP/1.1" 301 0
+Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+"GET /home/ HTTP/1.1" 500 83455
+C:\Users\Lenova\Desktop\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Lenova\Desktop\lesson_55\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /home/ HTTP/1.1" 200 223
+"GET /home/ HTTP/1.1" 200 223
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7656
+Not Found: /api/img/grid.png
+"GET /api/img/grid.png HTTP/1.1" 404 3001
+"POST /api/token/ HTTP/1.1" 200 8086
+Not Found: /api/img/grid.png
+"GET /api/img/grid.png HTTP/1.1" 404 3001
+"GET /products HTTP/1.1" 301 0
+Unauthorized: /products/
+"GET /products/ HTTP/1.1" 401 5121
+Not Found: /img/grid.png
+"GET /img/grid.png HTTP/1.1" 404 2989
+Not Found: /api/password_rest
+"GET /api/password_rest HTTP/1.1" 404 3004
+"GET /api/password_reset HTTP/1.1" 301 0
+Method Not Allowed: /api/password_reset/
+"GET /api/password_reset/ HTTP/1.1" 405 7514
+Not Found: /api/img/grid.png
+"GET /api/img/grid.png HTTP/1.1" 404 3001
+Bad Request: /api/password_reset/
+"POST /api/password_reset/ HTTP/1.1" 400 7571
+Not Found: /api/img/grid.png
+"GET /api/img/grid.png HTTP/1.1" 404 3001
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2935
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4268
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7393
+Not Found: /img/icon-changelink.svg
+Not Found: /img/icon-addlink.svg
+"GET /img/icon-changelink.svg HTTP/1.1" 404 3022
+"GET /img/icon-addlink.svg HTTP/1.1" 404 3013
+"GET /admin/django_rest_passwordreset/resetpasswordtoken/ HTTP/1.1" 200 8675
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Not Found: /admin/django_rest_passwordreset/img/icon-addlink.svg
+Not Found: /admin/django_rest_passwordreset/img/tooltag-add.svg
+"GET /admin/django_rest_passwordreset/img/icon-addlink.svg HTTP/1.1" 404 4933
+"GET /admin/django_rest_passwordreset/img/tooltag-add.svg HTTP/1.1" 404 4930
+"GET /admin/django_rest_passwordreset/resetpasswordtoken/add/ HTTP/1.1" 200 12638
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/django_rest_passwordreset/resetpasswordtoken/img/icon-addlink.svg HTTP/1.1" 301 0
+"GET /admin/django_rest_passwordreset/resetpasswordtoken/img/icon-addlink.svg/ HTTP/1.1" 302 0
+"GET /admin/django_rest_passwordreset/resetpasswordtoken/img/icon-addlink.svg/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7628
+"GET /admin/api/user/ HTTP/1.1" 200 9854
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/api/user/add/ HTTP/1.1" 200 23347
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/api/user/img/icon-addlink.svg HTTP/1.1" 301 0
+"GET /admin/api/user/img/icon-addlink.svg/ HTTP/1.1" 302 0
+"GET /admin/api/user/img/icon-addlink.svg/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7632
+"GET /admin/api/user/ HTTP/1.1" 200 9854
+Not Found: /admin/api/img/tooltag-add.svg
+Not Found: /admin/api/img/icon-addlink.svg
+"GET /admin/api/img/icon-addlink.svg HTTP/1.1" 404 4867
+"GET /admin/api/img/tooltag-add.svg HTTP/1.1" 404 4864
+"GET /admin/api/user/1/change/ HTTP/1.1" 200 23682
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/api/user/1/img/icon-addlink.svg HTTP/1.1" 301 0
+"GET /admin/api/user/1/img/icon-addlink.svg/ HTTP/1.1" 302 0
+"GET /admin/api/user/1/img/icon-addlink.svg/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7634
+"POST /admin/api/user/1/change/ HTTP/1.1" 200 23946
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+"GET /admin/api/user/1/img/icon-addlink.svg HTTP/1.1" 301 0
+"GET /admin/api/user/1/img/icon-addlink.svg/ HTTP/1.1" 302 0
+"GET /admin/api/user/1/img/icon-addlink.svg/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7634
+"POST /admin/api/user/1/change/ HTTP/1.1" 302 0
+"GET /admin/api/user/ HTTP/1.1" 200 10074
+"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+Not Found: /admin/api/img/icon-addlink.svg
+Not Found: /admin/api/img/tooltag-add.svg
+"GET /admin/api/img/icon-addlink.svg HTTP/1.1" 404 4867
+"GET /admin/api/img/tooltag-add.svg HTTP/1.1" 404 4864
+Method Not Allowed: /api/password_reset/
+"GET /api/password_reset/ HTTP/1.1" 405 7514
+Not Found: /api/img/grid.png
+"GET /api/img/grid.png HTTP/1.1" 404 3001
+Internal Server Error: /api/password_reset/
+Traceback (most recent call last):
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django_rest_passwordreset\views.py", line 176, in post
+    reset_password_token_created.send(sender=self.__class__, instance=self, reset_password_token=token)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "C:\Users\Lenova\Desktop\lesson_55\api\signals.py", line 29, in password_reset_token_created
+    msg.send()
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\mail\message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\mail\backends\smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\mail\backends\smtp.py", line 94, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\Lenova\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials k25-20020a2e8899000000b002cc5367fbc4sm962721lji.11 - gsmtp')
+"POST /api/password_reset/ HTTP/1.1" 500 143280
